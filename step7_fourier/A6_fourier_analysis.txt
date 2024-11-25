@@ -1,0 +1,63 @@
+Fourier Analysis Results
+--------------------------------------------------
+
+
+Channel 1:
+Reconstruction Error: 351.705559
+Max Spectrum Magnitude: 79.426547
+Dominant Frequency Component: 55
+
+Channel 2:
+Reconstruction Error: 1668.530095
+Max Spectrum Magnitude: 85.753720
+Dominant Frequency Component: 55
+
+Channel 3:
+Reconstruction Error: 314.213836
+Max Spectrum Magnitude: 60.633324
+Dominant Frequency Component: 28
+
+Channel 4:
+Reconstruction Error: 817.157598
+Max Spectrum Magnitude: 80.016122
+Dominant Frequency Component: 55
+
+Channel 5:
+Reconstruction Error: 0.011155
+Max Spectrum Magnitude: 42.412899
+Dominant Frequency Component: 55
+
+Channel 6:
+Reconstruction Error: 708.208883
+Max Spectrum Magnitude: 54.039815
+Dominant Frequency Component: 55
+
+Channel 7:
+Reconstruction Error: 9062.682484
+Max Spectrum Magnitude: 190.396244
+Dominant Frequency Component: 0
+
+Channel 8:
+Reconstruction Error: 35349.275111
+Max Spectrum Magnitude: 376.028048
+Dominant Frequency Component: 0
+
+Channel 9:
+Reconstruction Error: 3931.891279
+Max Spectrum Magnitude: 267.273877
+Dominant Frequency Component: 55
+
+Channel 10:
+Reconstruction Error: 2686.562967
+Max Spectrum Magnitude: 311.385675
+Dominant Frequency Component: 55
+
+Channel 11:
+Reconstruction Error: 6371.154082
+Max Spectrum Magnitude: 274.383584
+Dominant Frequency Component: 55
+
+Channel 12:
+Reconstruction Error: 4976.870354
+Max Spectrum Magnitude: 187.659881
+Dominant Frequency Component: 55

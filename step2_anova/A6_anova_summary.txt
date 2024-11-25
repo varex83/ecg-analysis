@@ -1,0 +1,6 @@
+One-Way ANOVA Results for A6
+--------------------------------------------------
+F-statistic: 232.3527
+F-critical (α=0.05): 1.7888
+p-value: 1.1102e-16
+Degrees of freedom: (11, 59988)

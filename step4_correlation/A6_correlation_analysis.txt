@@ -1,0 +1,26 @@
+Correlation Analysis Results
+--------------------------------------------------
+
+Highly Correlated Groups:
+Group 1: Channel 4, Channel 11, Channel 12
+Average correlation: 0.9515
+
+Group 2: Channel 1, Channel 10, Channel 11
+Average correlation: 0.9430
+
+Group 3: Channel 1, Channel 11, Channel 12
+Average correlation: 0.9334
+
+Group 4: Channel 10, Channel 11, Channel 12
+Average correlation: 0.9306
+
+Group 5: Channel 1, Channel 4, Channel 11, Channel 12
+Average correlation: 0.9276
+
+
+Partial Correlations:
+r_ab_c: 0.5303
+r_ac_b: -0.8955
+
+Multiple Correlations:
+r_a_bc: 0.9833

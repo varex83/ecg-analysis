@@ -1,0 +1,26 @@
+Two-Factor Analysis Results
+--------------------------------------------------
+
+Variances:
+S0_squared: 42.5674
+SA_squared: 29930.7193
+SB_squared: 62.3485
+SAB_squared: 128873.0106
+
+F-statistics:
+F_A: 703.1376
+F_B: 1.4647
+F_AB: 3027.5068
+F_crit_A: 2.0140
+F_crit_B: 2.5837
+F_crit_AB: 1.3748
+
+p-values:
+p_value_A: 1.1102e-16
+p_value_B: 2.2916e-01
+p_value_AB: 1.1102e-16
+
+Conclusions:
+Factor A (Channels): Significant
+Factor B (Time segments): Not significant
+Interaction A×B: Significant

@@ -1,0 +1,92 @@
+Clustering Analysis Results
+--------------------------------------------------
+
+PCA Analysis:
+Explained variance ratios: [0.53123477 0.41890767 0.03738316]
+Cumulative variance: [0.53123477 0.95014243 0.98752559]
+
+K-means Clustering (k=11):
+Inertia: 396924147.79324013
+Iterations: 18
+Consistency with PCA: 0.8498
+
+K-means Clustering (k=7):
+Inertia: 708234882.9585563
+Iterations: 14
+Consistency with PCA: 0.9212
+
+R-peak Analysis Results
+--------------------------------------------------
+
+
+Channel 1:
+Number of R-peaks detected: 13
+Mean R-R interval: 363.50 samples
+Mean heart rate: 82.53 BPM
+Heart rate variability: 0.25 BPM
+
+Channel 2:
+Number of R-peaks detected: 15
+Mean R-R interval: 311.64 samples
+Mean heart rate: 106.10 BPM
+Heart rate variability: 37.32 BPM
+
+Channel 3:
+Number of R-peaks detected: 12
+Mean R-R interval: 396.64 samples
+Mean heart rate: 78.82 BPM
+Heart rate variability: 11.95 BPM
+
+Channel 4:
+Number of R-peaks detected: 28
+Mean R-R interval: 181.63 samples
+Mean heart rate: 165.18 BPM
+Heart rate variability: 1.19 BPM
+
+Channel 5:
+Number of R-peaks detected: 14
+Mean R-R interval: 363.38 samples
+Mean heart rate: 82.56 BPM
+Heart rate variability: 0.30 BPM
+
+Channel 6:
+Number of R-peaks detected: 14
+Mean R-R interval: 363.46 samples
+Mean heart rate: 82.54 BPM
+Heart rate variability: 0.34 BPM
+
+Channel 7:
+Number of R-peaks detected: 14
+Mean R-R interval: 363.46 samples
+Mean heart rate: 82.54 BPM
+Heart rate variability: 0.23 BPM
+
+Channel 8:
+Number of R-peaks detected: 14
+Mean R-R interval: 363.46 samples
+Mean heart rate: 82.54 BPM
+Heart rate variability: 0.28 BPM
+
+Channel 9:
+Number of R-peaks detected: 13
+Mean R-R interval: 363.58 samples
+Mean heart rate: 82.51 BPM
+Heart rate variability: 0.31 BPM
+
+Channel 10:
+Number of R-peaks detected: 14
+Mean R-R interval: 363.46 samples
+Mean heart rate: 82.54 BPM
+Heart rate variability: 0.28 BPM
+
+Channel 11:
+Number of R-peaks detected: 13
+Mean R-R interval: 363.50 samples
+Mean heart rate: 82.53 BPM
+Heart rate variability: 0.24 BPM
+
+Channel 12:
+Number of R-peaks detected: 26
+Mean R-R interval: 189.00 samples
+Mean heart rate: 161.81 BPM
+Heart rate variability: 16.29 BPM
